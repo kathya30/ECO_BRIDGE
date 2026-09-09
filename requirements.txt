@@ -1,0 +1,5 @@
+streamlit
+google-cloud-bigquery
+google-genai
+google-adk
+pandas
