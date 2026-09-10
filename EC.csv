@@ -1,0 +1,187 @@
+year,cfe_region,zone_id,cloud_region,location,google_cfe,grid_carbon_intensity
+2019,Taiwan,TW,asia-east1,Taiwan,0.19,541
+2019,Hong Kong,HK,asia-east2,Hong Kong,,506
+2019,Tokyo,JP-TK,asia-northeast1,Tokyo,,569
+2019,Kansai,JP-KN,asia-northeast2,Osaka,,414
+2019,South Korea,KR,asia-northeast3,Seoul,,490
+2019,Maharashtra,IN-MH,asia-south1,Mumbai,,752
+2019,Singapore,SG,asia-southeast1,Singapore,0.03,493
+2019,Indonesia,ID,asia-southeast2,Jakarta,,647
+2019,New South Wales,AUS-NSW,australia-southeast1,Sydney,0.11,725
+2019,Finland,FI,europe-north1,Finland,0.77,181
+2019,Belgium,BE,europe-west1,Belgium,0.68,196
+2019,Great Britain,GB,europe-west2,London,0.54,257
+2019,Germany,DE,europe-west3,Frankfurt,0.61,319
+2019,Netherlands,NL,europe-west4,Netherlands,0.61,474
+2019,Switzerland,CH,europe-west6,Zurich,,87
+2019,Quebec,CA-QC,northamerica-northeast1,Montréal,,27
+2019,Central Brazil,BR-CS,southamerica-east1,São Paulo,0.87,109
+2019,MISO,US-MIDW-MISO,us-central1,Iowa,0.78,479
+2019,SC,US-CAR-SC,us-east1,South Carolina,0.19,500
+2019,PJM,US-MIDA-PJM,us-east4,Northern Virginia,0.41,383
+2019,BPA,US-NW-BPAT,us-west1,Oregon,0.89,117
+2019,CAISO,US-CAL-CISO,us-west2,Los Angeles,0.55,248
+2019,PACE,US-NW-PACE,us-west3,Salt Lake City,0.25,561
+2019,NVE,US-NW-NEVP,us-west4,Las Vegas,0.13,491
+2019,Chile,CL-SEN,non-cloud-data-center,Chile,0.63,300
+2019,DUKE,US-CAR-DUK,non-cloud-data-center,North Carolina,0.66,275
+2019,Ireland,IE,non-cloud-data-center,Ireland,0.42,342
+2019,SOCO,US-SE-SOCO,non-cloud-data-center,Georgia,0.26,439
+2019,SPP,US-CENT-SWPP,non-cloud-data-center,Oklahoma,0.96,410
+2019,TVA,US-TEN-TVA,non-cloud-data-center,Alabama and Tennessee,0.55,306
+2020,Taiwan,TW,asia-east1,Taiwan,0.18,540
+2020,Hong Kong,HK,asia-east2,Hong Kong,,453
+2020,Tokyo,JP-TK,asia-northeast1,Tokyo,0.12,554
+2020,Kansai,JP-KN,asia-northeast2,Osaka,,442
+2020,South Korea,KR,asia-northeast3,Seoul,0.31,457
+2020,Maharashtra,IN-MH,asia-south1,Mumbai,0.12,721
+2020,Singapore,SG,asia-southeast1,Singapore,0.04,493
+2020,Indonesia,ID,asia-southeast2,Jakarta,,647
+2020,New South Wales,AUS-NSW,australia-southeast1,Sydney,0.11,727
+2020,Finland,FI,europe-north1,Finland,0.94,133
+2020,Belgium,BE,europe-west1,Belgium,0.79,212
+2020,Great Britain,GB,europe-west2,London,0.59,231
+2020,Germany,DE,europe-west3,Frankfurt,0.63,293
+2020,Netherlands,NL,europe-west4,Netherlands,0.6,410
+2020,Switzerland,CH,europe-west6,Zurich,,87
+2020,Quebec,CA-QC,northamerica-northeast1,Montréal,,27
+2020,Central Brazil,BR-CS,southamerica-east1,São Paulo,0.88,103
+2020,MISO,US-MIDW-MISO,us-central1,Iowa,0.93,454
+2020,SC,US-CAR-SC,us-east1,South Carolina,0.27,480
+2020,PJM,US-MIDA-PJM,us-east4,Northern Virginia,0.58,361
+2020,BPA,US-NW-BPAT,us-west1,Oregon,0.9,78
+2020,CAISO,US-CAL-CISO,us-west2,Los Angeles,0.54,253
+2020,PACE,US-NW-PACE,us-west3,Salt Lake City,0.28,533
+2020,NVE,US-NW-NEVP,us-west4,Las Vegas,0.19,455
+2020,Chile,CL-SEN,non-cloud-data-center,Chile,0.65,290
+2020,Denmark,DK,non-cloud-data-center,Denmark,0.9,
+2020,DUKE,US-CAR-DUK,non-cloud-data-center,North Carolina,0.67,251
+2020,ERCOT,US-TEX-ERCO,non-cloud-data-center,Texas,0.37,371
+2020,Ireland,IE,non-cloud-data-center,Ireland,0.46,312
+2020,SOCO,US-SE-SOCO,non-cloud-data-center,Georgia,0.42,405
+2020,SPP,US-CENT-SWPP,non-cloud-data-center,Oklahoma,0.92,382
+2020,TVA,US-TEN-TVA,non-cloud-data-center,Alabama and Tennessee,0.7,264
+2021,Taiwan,TW,asia-east1,Taiwan,0.17,456
+2021,Hong Kong,HK,asia-east2,Hong Kong,0.28,360
+2021,Tokyo,JP-TK,asia-northeast1,Tokyo,0.16,464
+2021,Kansai,JP-KN,asia-northeast2,Osaka,0.31,384
+2021,South Korea,KR,asia-northeast3,Seoul,0.31,425
+2021,Maharashtra,IN-MH,asia-south1,Mumbai,0.1,670
+2021,Uttar Pradesh,IN-UP,asia-south2,Delhi,0.08,671
+2021,Singapore,SG,asia-southeast1,Singapore,0.04,372
+2021,Indonesia,ID,asia-southeast2,Jakarta,0.13,580
+2021,New South Wales,AUS-NSW,australia-southeast1,Sydney,0.21,598
+2021,Victoria,AUS-VIC,australia-southeast2,Melbourne,0.31,521
+2021,Poland,PL,europe-central2,Warsaw,0.2,576
+2021,Finland,FI,europe-north1,Finland,0.91,127
+2021,Spain,ES,europe-southwest1,Madrid,,121
+2021,Belgium,BE,europe-west1,Belgium,0.82,110
+2021,Great Britain,GB,europe-west2,London,0.57,172
+2021,Germany,DE,europe-west3,Frankfurt,0.6,269
+2021,Netherlands,NL,europe-west4,Netherlands,0.53,283
+2021,Switzerland,CH,europe-west6,Zurich,0.85,86
+2021,North Italy,IT,europe-west8,Milan,,298
+2021,France,FR,europe-west9,Paris,,59
+2021,Quebec,CA-QC,northamerica-northeast1,Montréal,1,0
+2021,Ontario,CA-ON,northamerica-northeast2,Toronto,0.92,29
+2021,Central Brazil,BR-CS,southamerica-east1,São Paulo,0.78,129
+2021,Chile,CL-SEN,southamerica-west1,Santiago,0.69,190
+2021,MISO,US-MIDW-MISO,us-central1,Iowa,0.97,394
+2021,SC,US-CAR-SC,us-east1,South Carolina,0.25,434
+2021,PJM,US-MIDA-PJM,us-east4,Northern Virginia,0.64,354.1333132
+2021,PJM,US-MIDA-PJM,us-east5,Columbus,0.64,354.1333132
+2021,ERCOT,US-TEX-ERCO,us-south1,Dallas,0.4,296
+2021,BPA,US-NW-BPAT,us-west1,Oregon,0.88,60
+2021,CAISO,US-CAL-CISO,us-west2,Los Angeles,0.53,190
+2021,PACE,US-NW-PACE,us-west3,Salt Lake City,0.31,448
+2021,NVE,US-NW-NEVP,us-west4,Las Vegas,0.21,365
+2022,Taiwan,TW,asia-east1,Taiwan,0.18,452.9817895
+2022,Hong Kong,HK,asia-east2,Hong Kong,0.28,360
+2022,Tokyo,JP-TK,asia-northeast1,Tokyo,0.16,463.1845738
+2022,Kansai,JP-KN,asia-northeast2,Osaka,0.32,382.8763634
+2022,South Korea,KR,asia-northeast3,Seoul,0.31,425.4294165
+2022,Maharashtra,IN-WE,asia-south1,Mumbai,0.24,554.7241641
+2022,Uttar Pradesh,IN-UP,asia-south2,Delhi,0.23,633
+2022,Singapore,SG,asia-southeast1,Singapore,0.04,372.2891487
+2022,Indonesia,ID,asia-southeast2,Jakarta,0.13,580
+2022,New South Wales,AU-NSW,australia-southeast1,Sydney,0.27,538.4635
+2022,Victoria,AUS-VIC,australia-southeast2,Melbourne,0.34,489.624991
+2022,Poland,PL,europe-central2,Warsaw,0.24,737.8446139
+2022,Finland,FI,europe-north1,Finland,0.97,111.548013
+2022,Spain,ES,europe-southwest1,Madrid,0.67,159.5926497
+2022,Belgium,BE,europe-west1,Belgium,0.80,123.3489458
+2022,Great Britain,GB,europe-west2,London,0.85,165.5188465
+2022,Germany,DE,europe-west3,Frankfurt,0.96,413.0761112
+2022,Netherlands,NL,europe-west4,Netherlands,0.57,317.2607301
+2022,Germany,DE,europe-west5,N/A,0.96,413.0761112
+2022,Switzerland,CH,europe-west6,Zurich,0.85,117.8645106
+2022,North Italy,IT,europe-west8,Milan,0.42,323.3211995
+2022,France,FR,europe-west9,Paris,0.87,70.63731936
+2022,Israel,IL,me-west1,N/A,0.02,476.1502788
+2022,Denmark,DK,non-cloud-data-center,Denmark,0.90,127.5266098
+2022,DUKE,US-CAR-DUK,non-cloud-data-center,North Carolina,0.63,260.191335
+2022,Ireland,IE,non-cloud-data-center,N/A,0.39,320.6968396
+2022,South Africa,ZA,None,N/A,0.20,619.761305
+2022,Quebec,CA-QC,northamerica-northeast1,Montréal,1.00,0.2525412257
+2022,Ontario,CA-ON,northamerica-northeast2,Toronto,0.90,36.38092541
+2022,Central Brazil,BR-CS,southamerica-east1,Sāo Paulo,0.89,65.10542
+2022,Chile,CL-SEN,southamerica-west1,Santiago,0.89,165.4656495
+2022,MISO,US-MIDW-MISO,us-central1,Iowa,0.92,460.3134899
+2022,SPP,US-CENT-SWPP,us-central2,Oklahoma,0.87,428.6763034
+2022,SC,US-CAR-SC,us-east1,South Carolina,0.26,531.7470883
+2022,SOCO,US-SE-SOCO,us-east2,Georgia,0.40,379.0193709
+2022,PJM,US-MIDA-PJM,us-east4,Northern Virginia,0.60,354.1333132
+2022,TVA,US-TEN-TVA,us-east7,Alabama and Tennessee,0.63,307.9649556
+2022,ERCOT,US-TEX-ERCO,us-south1,Dallas,0.41,342.0819956
+2022,BPA,US-NW-BPAT,us-west1,Oregon,0.89,67.38988621
+2022,CAISO,US-CAL-CISO,us-west2,Los Angeles,0.56,201.8308358
+2022,PACE,US-NW-PACE,us-west3,Salt Lake City,0.31,606.0113412
+2022,NVE,US-NW-NEVP,us-west4,Las Vegas,0.27,395.7306985
+2023,Taiwan,TW,asia-east1,Taiwan,0.18,450.7004898
+2023,Hong Kong,HK,asia-east2,Hong Kong,0.28,360
+2023,Tokyo,JP-TK,asia-northeast1,Tokyo,0.16,459.1210975
+2023,Kansai,JP-KN,asia-northeast2,Osaka,0.30,384.6513669
+2023,South Korea,KR,asia-northeast3,Seoul,0.35,378.1754483
+2023,Maharashtra,IN-WE,asia-south1,Mumbai,0.14,647.7997024
+2023,Uttar Pradesh,IN-UP,asia-south2,Delhi,0.29,529.2440315
+2023,Singapore,SG,asia-southeast1,Singapore,0.04,369.0586926
+2023,Indonesia,ID,asia-southeast2,Jakarta,0.13,580
+2023,New South Wales,AU-NSW,australia-southeast1,Sydney,0.33,501.2197319
+2023,Victoria,AUS-VIC,australia-southeast2,Melbourne,0.40,455.659339
+2023,Poland,PL,europe-central2,Warsaw,0.31,723.3384469
+2023,Finland,FI,europe-north1,Finland,0.98,46.36146046
+2023,Spain,ES,europe-southwest1,Madrid,0.76,131.3774682
+2023,Belgium,BE,europe-west1,Belgium,0.82,122.3009469
+2023,Great Britain,GB,europe-west2,London,0.92,136.4939598
+2023,Germany,DE,europe-west3,Frankfurt,0.90,345.0182979
+2023,Netherlands,NL,europe-west4,Eemshaven,0.80,235.9231333
+2023,Germany,DE,europe-west5,N/A,0.90,345.0182979
+2023,Switzerland,CH,europe-west6,Zurich,0.92,58.67477356
+2023,Italy,IT,europe-west8,Milan,0.52,248.7436465
+2023,France,FR,europe-west9,Paris,0.94,34.00951639
+2023,Germany,DE,europe-west10,Berlin,0.90,345.0182979
+2023,Italy,IT,europe-west12,Turin,0.52,248.7436465
+2023,Israel,IL,me-west1,Tel Aviv,0.05,463.1302402
+2023,Denmark,DK,non-cloud-data-center,Denmark,0.92,95.37136971
+2023,DUKE,US-CAR-DUK,non-cloud-data-center,North Carolina,0.63,243.0924065
+2023,Ireland,IE,non-cloud-data-center,N/A,0.43,312.2991335
+2023,South Africa,ZA,africa-south1,Johannesburg,0.16,646.0214789
+2023,Quebec,CA-QC,northamerica-northeast1,Montréal,1.00,1.778459442
+2023,Ontario,CA-ON,northamerica-northeast2,Toronto,0.87,47.49553628
+2023,Central Brazil,BR-CS,southamerica-east1,Sāo Paulo,0.90,56.37728312
+2023,Chile,CL-SEN,southamerica-west1,Santiago,0.91,137.6118037
+2023,MISO,US-MIDW-MISO,us-central1,Iowa,0.95,429.7256142
+2023,SPP,US-CENT-SWPP,us-central2,Oklahoma,0.87,388.4806905
+2023,SC,US-CAR-SC,us-east1,South Carolina,0.29,559.733181
+2023,SOCO,US-SE-SOCO,us-east2,Georgia,0.42,356.6077869
+2023,PJM,US-MIDA-PJM,us-east4,Northern Virginia,0.52,322.4388484
+2023,PJM,US-MIDA-PJM,us-east5,Columbus,0.52,322.4388484
+2023,TVA,US-TEN-TVA,us-east7,Alabama and Tennessee,0.65,294.7732414
+2023,ERCOT,US-TEX-ERCO,us-south1,Dallas,0.79,321.018917
+2023,BPA,US-NW-BPAT,us-west1,Oregon,0.84,93.58928267
+2023,CAISO,US-CAL-CISO,us-west2,Los Angeles,0.55,197.7318267
+2023,PACE,US-NW-PACE,us-west3,Salt Lake City,0.29,588.2808078
+2023,NVE,US-NW-NEVP,us-west4,Las Vegas,0.26,372.9818066
+2023,Qatar,Qatar,me-central1,Doha,0.00,575
+2023,Saudi Arabia,Saudi Arabia,me-central2,Dammam,0.00,569
+2023,AZ-SRP,US-AZ-SRP,N/A,Chandler,0.48,263.176272
